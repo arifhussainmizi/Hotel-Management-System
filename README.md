@@ -12,4 +12,4 @@ for sub admin Login
               
               
               
-**alert(!)  must be import database first and open your local server
+**alert(!)  must be import database first and open your local server.
