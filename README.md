@@ -9,3 +9,7 @@ for sub admin Login
                   email: r@gmail.com
                   password: 1234
               *or you can register and aproved by admin.
+              
+              
+              
+**alert(!)  must be import database first and open your local server
